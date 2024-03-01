@@ -4,8 +4,8 @@ https://github.com/IITDBGroup/perm
 
 The addresses of the three public datasets used in the experiment are as follows：
 
-census-income: https://archive.ics.uci.edu/
-IMDB: https://developer.imdb.com/non-commercial-datasets/
+census-income: https://archive.ics.uci.edu/ \n
+IMDB: https://developer.imdb.com/non-commercial-datasets/ \n
 TPC-H: https://www.tpc.org/tpc_documents_current_versions/current_specifications5.asp
 
 Usage instructions
